@@ -1,0 +1,26 @@
+[
+    {
+        "number": 1,
+        "name": "Pau",
+        "surname": "Martinez",
+        "email": "paumartinezrios@gmail.com"
+    },
+    {
+        "number": 2,
+        "name": "Miguel",
+        "surname": "Martinez",
+        "email": "mikipepi@hotmail.com"
+    },
+    {
+        "number": 3,
+        "name": "Emma",
+        "surname": "Martinez",
+        "email": "emmamartinez@gmail.com"
+    },
+    {
+        "number": 4,
+        "name": "Josefa",
+        "surname": "Rios",
+        "email": "mikipepi@hotmail.com"
+    }
+]

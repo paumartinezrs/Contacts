@@ -1,0 +1,62 @@
+#USERS
+
+### Get users
+GET http://localhost:3000/users
+
+### Get user by id
+GET http://localhost:3000/users/8
+
+### Post user
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+    "number": 5,
+    "name": "Pepito",
+    "surname": "Grillo",
+    "email": "pepitogrillo@gmail.com",
+    "joder": 8
+}
+
+### Patch user
+PATCH http://localhost:3000/users/5
+Content-Type: application/json
+
+{
+    "joder": 6
+}
+
+### Delete user
+DELETE http://localhost:3000/users/5
+
+
+
+
+#CONTACTS
+
+### Get contacts
+GET http://localhost:3000/contacts
+
+### Get contact by id
+GET http://localhost:3000/contacts/bd57954e-cb32-4474-8230-2ab63aa9c155
+
+### Post contact
+POST http://localhost:3000/contacts
+Content-Type: application/json
+
+{
+    "owner": 6,
+    "contact": 7,
+    "relation": "Hoke"
+}
+
+###update contact 
+PATCH http://localhost:3000/contacts/ca995195-5bc1-4c77-9d51-0bed5d385440
+Content-Type: application/json
+
+{
+    "relation": "makina"
+}
+
+###delete contact
+DELETE http://localhost:3000/contacts/ca995195-5bc1-4c77-9d51-0bed5d385440

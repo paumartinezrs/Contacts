@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bd57954e-cb32-4474-8230-2ab63aa9c155",
+    "owner": 1,
+    "contact": 2,
+    "relation": "Padre"
+  },
+  {
+    "id": "0297f86f-a310-40aa-91df-354ae94ac8c9",
+    "owner": 2,
+    "contact": 4,
+    "relation": "Mujer"
+  },
+  {
+    "id": "707c8121-e281-43e2-b6cc-4996b3e1311f",
+    "owner": 4,
+    "contact": 3,
+    "relation": "Hija"
+  },
+  {
+    "id": "c716846c-4ea0-4657-bd6b-ee5eb4a1fd24",
+    "owner": 3,
+    "contact": 4,
+    "relation": "Madre"
+  }
+  
+]
