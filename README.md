@@ -1,7 +1,7 @@
 # Contacts app
 
-This project consists on developing the back end solution for a contacts app. An API-Rest is created with Node.js and Express. The achitecture of the API is a Model-View-Controller architecture. 
+This project involves developing the backend solution for a contacts app. An API-Rest is created using Node.js and Express, following the Model-View-Controller architecture.
 
-This project is still under development and my aim is to learn different techologies with it. Now, the data part is done both with local file system and with SQLite. It works fine with both and you can change within different models very easily thanks to the architecture. 
+The project is currently under development, serving as a platform for me to explore various technologies. As of now, the data management aspect is complete, utilizing either the local file system or SQLite. Thanks to the architecture, transitioning between different models is seamless.
 
-To run it all you need to do is to clone the repository and "npm run dev". The needed dependencies are shown in package.json
+To run the project, simply clone the repository and execute "npm run dev". All required dependencies are listed in the package.json file.
